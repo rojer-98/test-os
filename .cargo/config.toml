@@ -1,0 +1,6 @@
+[build]
+target = "src/target.json"
+
+[unstable]
+build-std = ["core", "compiler_builtins"]
+
